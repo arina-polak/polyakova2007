@@ -8,4 +8,4 @@ Original file is located at
 """
 
 name = input('enter your name')
-print('hello,' + name)
+print('whats your name? ,' + name)
